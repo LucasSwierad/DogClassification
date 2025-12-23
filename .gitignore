@@ -1,0 +1,17 @@
+# Ignore dataset folder
+data/
+
+# Ignore images
+*.png
+*.jpg
+*.jpeg
+
+# Ignore CSV files
+*.csv
+
+# Ignore zip files
+*.zip
+
+# Ignore Python cache
+__pycache__/
+*.pyc
