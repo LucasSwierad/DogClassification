@@ -1,6 +1,6 @@
 Dog Breed Classification
 
-EECS 445 – Introduction to Machine Learning (Project 2)
+Introduction to Machine Learning (Project 2)
 
 This project focuses on building and evaluating a convolutional neural network (CNN) to classify images of dogs by breed. Using PyTorch, we train models on labeled image data and analyze the effects of preprocessing, architecture choices, and hyperparameters on classification performance.
 
