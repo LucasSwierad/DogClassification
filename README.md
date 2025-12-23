@@ -20,4 +20,4 @@ The goal of this project is to gain hands-on experience with deep learning pipel
 
 The dataset consists of labeled dog images spanning multiple breeds. Images are split into training, validation, and test sets as provided by the course staff.
 
-##### Note: The dataset images are not included in this repository due to size constraints. The expected directory structure is:
+##### Note: The dataset images are not included in this repository due to size constraints.
